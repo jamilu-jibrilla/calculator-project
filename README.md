@@ -1,1 +1,1 @@
-# calculator-project
+# This calculator-project is part of TheOdinProject website
