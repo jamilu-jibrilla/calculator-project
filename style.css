@@ -41,14 +41,14 @@ body {
 }
 #equals {
     grid-column: 3 / span 2;
-    background-color: #D41C63;
+    background-color: #880336;
 }
 #equals:hover {
-    background-color: #880336;
+    background-color: #D41C63;
 }
 @media screen and (max-width: 500px) {
     .buttons-container {
-        height: 86vh;
-        width: 100vw;
+        height: 70vh;
+        width: 70vw;
     }
 }
