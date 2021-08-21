@@ -1,1 +1,3 @@
-# This calculator-project is part of TheOdinProject website
+A simple calculator
+link: 
+https://jamilu-jibrilla.github.io/todo-app/ 
